@@ -12,3 +12,7 @@ Jawaban: untuk hasilnya error.
 Soal 3
 Capture hasil npm run seed Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
 Jawaban: menambahkan seed ke basis data, yang nantinya berhasil melakukan seeding pada database Postgre Vercel.
+
+Soal 4
+Capture hasil query Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ? Cobalah eksekusi query SQL yang lain sesuai kreasi Anda, capture hasilnya dan jelaskan!
+Jawaban: mencoba data query dan men kreasikan sesuai yang diingikan.
