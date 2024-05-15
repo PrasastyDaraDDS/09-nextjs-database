@@ -24,3 +24,7 @@ Jawaban: membuat model query, untuk outputnya hanya menghasilkan tulisan "dashbo
 soal 6
 Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
 Jawaban: menampilkan "dashboard" dan "Recent Revenue" dan juga grafik yang nantinya setelah di running/mendeply ke vercel dengan di push. untuk hasil runningnya tetap error
+
+soal 7
+Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+Jawaban: melakukan import komponen pada LatestInvoices, melengkapi aset gambar yang hilang dan menambahkan dalam path: public\customers\delba-de-oliveira.png. untuk outputnya sama dengan no.6 hanya menampilkan tulisan "Dashboard saja.
