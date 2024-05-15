@@ -21,5 +21,6 @@ Soal 5
 Lakukan push, kemudian perhatikan di akun dashboard Vercel project Anda. Capture dan lampirkan link aplikasi Anda yang telah berhasil di deploy, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
 Jawaban: membuat model query, untuk outputnya hanya menghasilkan tulisan "dashboard" saja.
 
+soal 6
 Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
 Jawaban: menampilkan "dashboard" dan "Recent Revenue" dan juga grafik yang nantinya setelah di running/mendeply ke vercel dengan di push. untuk hasil runningnya tetap error
